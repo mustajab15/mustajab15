@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1>Hello Everyone , I'm Mustajab </h1>
+<h3>Hello Everyone , I'm Mustajab </h3>
 
 
 # 💻 Tech Stack:
